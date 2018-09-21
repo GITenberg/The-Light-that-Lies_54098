@@ -1,0 +1,31 @@
+_repo: The-Light-that-Lies_54098
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cootes, F. Graham
+    gutenberg_agent_id: '8148'
+    url: http://www.gutenberg.org/2009/agents/8148
+creator:
+  author:
+    agent_name: McCutcheon, George Barr
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '1555'
+    url: http://www.gutenberg.org/2009/agents/1555
+    wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
+description: ''
+gutenberg_issued: '2017-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jury -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Trials -- Fiction'
+- GITenberg
+title: The Light that Lies
+url: http://www.gutenberg.org/ebooks/54098
