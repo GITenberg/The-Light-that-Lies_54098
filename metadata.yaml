@@ -1,10 +1,13 @@
 _repo: The-Light-that-Lies_54098
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cootes, F. Graham
     gutenberg_agent_id: '8148'
     url: http://www.gutenberg.org/2009/agents/8148
+covers:
+- cover_type: archival
+  image_path: 54098-h/images/cover.jpg
 creator:
   author:
     agent_name: McCutcheon, George Barr
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1555
     wikipedia: http://en.wikipedia.org/wiki/George_Barr_McCutcheon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54098#The-Light-that-Lies
 gutenberg_issued: '2017-02-03'
 gutenberg_type: Text
 identifiers:
